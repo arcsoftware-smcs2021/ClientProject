@@ -21,3 +21,9 @@ Cloud Firestore is a NoSQL way of storing the data that we get from the Canvas c
 ## Express.js
 
 Express.js is a framework for Node.js. It was used for making an HTTPS server that will be used to interact with the Canvas API.
+
+
+
+# Instructions for Setup
+
+The external tool is used in Canvas and can be installed using the EduAppCenter. This can be accessed by 
